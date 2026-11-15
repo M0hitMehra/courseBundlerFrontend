@@ -20,4 +20,4 @@ const store = configureStore({
 export default store
 
 
-export const server = "https://vivacious-gown-bass.cyclic.app/api/v1"
+export const server = "https://coursebundlerserver-sfwp.onrender.com/api/v1"
